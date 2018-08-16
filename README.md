@@ -1,0 +1,2 @@
+# zuzy
+Random Discord bot
