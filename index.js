@@ -1,6 +1,5 @@
 const botconfig = require("./botconfig.json");
 const Discord = require("discord.js");
-const token = proccess.env.token;
 
 const bot = new Discord.Client({disableEveryone: true});
 
@@ -156,4 +155,4 @@ if(cmd === `${prefix}report`){
 
 
 
-bot.login(index.token);
+bot.login(botconfig.token);
