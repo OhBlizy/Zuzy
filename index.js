@@ -156,4 +156,4 @@ if(cmd === `${prefix}report`){
 
 
 
-bot.login(botconfig.token);
+bot.login(index.token);
