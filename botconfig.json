@@ -1,4 +1,3 @@
 {
-  "token": proccess.env.token,
   "prefix": "+"
 }
